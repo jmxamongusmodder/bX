@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-5,
+				104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "twitch idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "pets/twitch",
+	"position": [
+		285,
+		790
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		70,
+		255
+	],
+	"scale": 1
+}
